@@ -27,4 +27,4 @@ let reset=()=>{
   )
 }
 
-export default 
+export default Counter
