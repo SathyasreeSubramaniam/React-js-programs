@@ -30,3 +30,9 @@ const b=Number(num2);
 }
 
 export default App
+//index.css
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
