@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 function App() {
-  const [theme, setTheme]=useState=("light");
+  const [theme, setTheme]=useState("light");
   const Toggletheme =()=>{
     setTheme(theme === "light" ? "Dark" : "light")
   };
